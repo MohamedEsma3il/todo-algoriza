@@ -5,7 +5,7 @@ class FavoriteWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(      color: Colors.deepOrange,
+    return Container(color: Colors.deepOrange,
       child: Text('FavoriteTasksWidget'),);
   }
 }
