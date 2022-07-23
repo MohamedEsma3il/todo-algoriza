@@ -20,7 +20,7 @@ class MyButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: width,
-      height: 40.0,
+      height: 46.0,
       child: MaterialButton(
         onPressed: function,
         child: Text(

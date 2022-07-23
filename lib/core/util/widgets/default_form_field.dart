@@ -50,7 +50,7 @@ class DefaultFormField extends StatelessWidget {
                 icon: Icon(suffix),
               )
             : null,
-        border: OutlineInputBorder(),
+        border: const OutlineInputBorder(),
       ),
     );
   }
