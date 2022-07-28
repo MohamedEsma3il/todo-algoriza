@@ -5,7 +5,7 @@ import 'package:todo_algoriza/features/add_task/presentation/pages/add_task_page
 import 'package:todo_algoriza/features/all%20tasks/presentation/pages/all_tasks_page.dart';
 import 'package:todo_algoriza/features/complete_tasks/presentation/pages/complete_tasks_page.dart';
 import 'package:todo_algoriza/features/favorite%20tasks/presentation/pages/favorite_page.dart';
-import 'package:todo_algoriza/features/schedual_tasks/presentation/pages/schedual_page.dart';
+import 'package:todo_algoriza/features/schedule_tasks/presentation/pages/schedule_page.dart';
 import 'package:todo_algoriza/features/uncomplete%20tasks/presentation/pages/uncomplete_tasks_page.dart';
 
 class BoardWidget extends StatelessWidget {

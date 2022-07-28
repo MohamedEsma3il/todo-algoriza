@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:todo_algoriza/features/board/presentation/widgets/board_widget.dart';
-// import 'package:todo_algoriza/features/schedual_tasks/presentation/pages/schedual_page.dart';
+// import 'package:todo_algoriza/features/schedual_tasks/presentation/pages/schedule_page.dart';
 // import 'package:todo_algoriza/core/util/widgets/my_divider.dart';
 // import 'package:todo_algoriza/features/all%20tasks/presentation/pages/all_tasks_page.dart';
 // import 'package:todo_algoriza/features/complete_tasks/presentation/pages/complete_tasks_page.dart';
